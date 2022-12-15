@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**NercinoN21/NercinoN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### I am Nercino Neto,
+ 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### University student for Data Science for Business - UFPB
+
+<br>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NercinoN21&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NercinoN21&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nercino-neto-6164b5235)
+
+### 📩 njbneto21@gmail.com
